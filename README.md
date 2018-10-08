@@ -8,3 +8,11 @@
 * week 2
 * leap year
 * seconds
+
+* week 3
+* BMI
+* sum
+
+* week 4
+* menu
+* menu2
