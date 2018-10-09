@@ -1,0 +1,314 @@
+# include <stdio.h>
+
+void prchar(char c,int n)
+{
+    for(int i=1; i<=n; i++)
+        printf("%c",c);
+}
+int isLeap(int year){
+    if ((year%4==0&&year%100!=0)||year%400==0)
+        return 1;
+    else
+        return 0;
+}
+int timeconvert(int hh, int mm, int ss)
+{
+   return hh*3600+mm*60+ss;
+}
+int drawRect(int height, int width,int filled)
+{
+    if(filled)
+    {
+        for(int i=1; i<=height; i++)
+        {
+            prchar('*',width);
+            printf("\n");
+        }
+    }
+    else
+    {
+        for(int i=1; i<=height; i++)
+        {
+            if(i==1||i==height)
+            {
+                prchar('*',width);
+            }
+            else
+            {
+                printf("*");
+                prchar(' ',width-2);
+                printf("*");
+            }
+            printf("\n");
+        }
+    }
+}
+int drawVertTri(int height, int type,int filled)
+{
+    switch(type)
+    {
+    case 1:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar('*',i);
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1||i==height)
+                {
+                    prchar('*',i);
+                }
+                else
+                {
+                    printf("*");
+                    prchar(' ',i-2);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    case 2:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar(' ',height-i);
+				prchar('*',i);
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1||i==height)
+                {
+                    prchar(' ',height-i);
+					printf("*");
+					prchar('*',i-1);
+                }
+                else
+                {
+                    prchar(' ',height-i);
+					printf("*");
+                    prchar(' ',i-2);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    case 3:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar('*',height-i+1);
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1||i==height)
+                {
+                    prchar('*',height-i+1);
+                }
+                else
+                {
+                    printf("*");
+					prchar(' ',height-i-1);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    case 4:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar(' ',i-1);
+                prchar('*',height-i+1);
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1||i==height)
+                {
+                    prchar(' ',i-1);
+					prchar('*',height-i+1);
+                }
+                else
+                {
+					prchar(' ',i-1);
+                    printf("*");
+                    prchar(' ',height-i-1);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    }
+}
+int drawTsoTri(int height, int type,int filled)
+{
+    switch(type)
+    {
+    case 1:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar(' ',height-i);
+                prchar('*',2*i-1);
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1 || i==height)
+                {
+                    prchar(' ',height-i);
+                    prchar('*',2*i-1);
+                }else
+                {
+                    prchar(' ',height-i);
+                    printf("*");
+                    prchar(' ',2*i-3);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    case 2:
+        if(filled)
+        {
+            for(int i=1; i<=height; i++)
+            {
+                prchar(' ',i-1);
+                prchar('*',(2*(height-i)+1));
+                printf("\n");
+            }
+        }
+        else
+        {
+            for(int i=1; i<=height; i++)
+            {
+                if(i==1 || i==height)
+                {
+                    prchar(' ',i-1);
+                    prchar('*',(2*(height-i)+1));
+                }else
+                {
+                    prchar(' ',i-1);
+                    printf("*");
+                    prchar(' ',2*(height-i)-1);
+                    printf("*");
+                }
+                printf("\n");
+            }
+        }
+        break;
+    }
+}
+int yourBMI(float Height, float Weight)
+{
+    double BMI;
+    BMI=Weight/((Height/100)*(Height/100));
+    	if(BMI<18.5)
+    	    printf("1\n");
+    	else if(BMI<24&&BMI>=18.5)
+    	    printf("2\n");
+    	else if(BMI<27&&BMI>=24)
+    	    printf("3\n");
+    	else if(BMI<30&&BMI>=27)
+    	    printf("4\n");
+    	else if(BMI<35&&BMI>=30)
+    	    printf("5\n");
+    	else if(BMI>=35)
+    	    printf("6\n");
+    return BMI ;
+}
+
+int main()
+{
+    int choice,year,hh,mm,ss,seconds,width,type,filled,height,weight;
+    float Height,Weight;
+    double BMI;
+    while(1)
+    {
+        printf("Main Menu \n");
+        printf("1. leap year \n");
+        printf("2. timeconvert \n");
+        printf("3. Rectangle \n");
+        printf("4. Vertical Triangle \n");
+        printf("5. Tsosceles Triangle \n");
+        printf("6. BMI \n");
+        printf("7. Exit\n");
+        printf("=> ");
+        scanf("%d",&choice);
+        if(choice==7)break;
+        switch(choice)
+        {
+        case 1:
+            printf("Enter year :");
+	        scanf("%d",&year);
+            if(isLeap(year))
+            {
+                printf("year %d is leap year \n \n",year);
+	        }
+	        else
+	        {
+	            printf("year %d is not leap year \n \n",year);
+            }
+            break;
+         case 2:
+            printf("Enter hh:mm:ss ");
+            scanf("%d:%d:%d",&hh,&mm,&ss);
+            seconds=timeconvert(hh,mm,ss);
+            printf("%02d:%02d:%02d = %d seconds \n \n",hh,mm,ss,seconds);
+            break;
+         case 3:
+            printf("Enter height and width and filled: ");
+            scanf("%d %d %d",&height,&width,&filled);
+            drawRect(height,width,filled);
+            break;
+         case 4:
+            printf("Enter height and type and filled: ");
+            scanf("%d %d %d",&height,&type,&filled);
+            if(type==5)break;
+            drawVertTri(height,type,filled);
+            break;
+         case 5:
+            printf("Enter height and type and filled: ");
+            scanf("%d %d %d",&height,&type,&filled);
+            if(type==3)break;
+            drawTsoTri(height,type,filled);
+            break;
+         case 6:
+            printf("Enter your Height :");
+            scanf("%f",&Height);
+	        printf("Enter your Weight :");
+	        scanf("%f",&Weight);
+	        BMI=yourBMI(Height,Weight);
+	        printf("your Height %.1f and Weight %.1f print BMI= %.1f ",Height,Weight,BMI);
+        }
+    }
+}
