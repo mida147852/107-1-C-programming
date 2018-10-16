@@ -1,7 +1,7 @@
 # 107-1-C-programming
 
 ## week 1
- [welcome](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0910welcome.cpp)
+ - [welcome](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0910welcome.cpp)
 ````
 #include <stdio.h> 
 int main()
@@ -11,16 +11,19 @@ printf("Welcome to C Programming\n");
   return 0;
 }
 ````
- [輸入輸出](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA.cpp)
+- [輸入輸出](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA.cpp)
 ````
 Enter temperature in C: 20.5 
 20.5 C = 68.9 F 
 Enter temperature in F: 80.5 
 80.5 F = 26.9 C
 ````
-  [平方根](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)
- ````
-  
+ - [平方根](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)
+````
+Enter a b c: 2 -3 1 
+For equation 2 x^2 -3 x + 1 =0
+two roots are x1 = 1.0 x2 = 0.5
+````
 * week 2
 * leap year
 * seconds
@@ -40,5 +43,5 @@ Enter temperature in F: 80.5
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcwMjQ5NjBdfQ==
+eyJoaXN0b3J5IjpbMTY2MDEwMjE4Nl19
 -->
