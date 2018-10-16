@@ -1,9 +1,10 @@
 # 107-1-C-programming
 
 ## week 1
- [**welcome**](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0910welcome.cpp)
+ [welcome](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0910welcome.cpp)
 
-0911平方根.cpp
+ [輸入輸出](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA.cpp)
+  [平方根](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA.cpp)
 
 * 0911輸入輸出.cpp
 
@@ -26,5 +27,5 @@
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDYxOTA1MDJdfQ==
+eyJoaXN0b3J5IjpbMzcwOTgxMDUzXX0=
 -->
