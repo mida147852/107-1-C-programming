@@ -1,6 +1,6 @@
 # 107-1-C-programming
 
-* week 1
+*## week 1
 * 0910welcome.cpp
 * 0911平方根.cpp
 * 0911輸入輸出.cpp
@@ -23,3 +23,6 @@
 * week 6
 * dayspassed
 * sort
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NTEyNzUwMjldfQ==
+-->
