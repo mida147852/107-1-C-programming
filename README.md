@@ -1,8 +1,10 @@
 # 107-1-C-programming
 
 ## week 1
- [攝氏溫度轉換]()
-* 0911平方根.cpp
+ [**welcome**](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0910welcome.cpp)
+
+0911平方根.cpp
+
 * 0911輸入輸出.cpp
 
 * week 2
@@ -24,5 +26,5 @@
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDExNzUxMF19
+eyJoaXN0b3J5IjpbLTEwMDYxOTA1MDJdfQ==
 -->
