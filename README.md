@@ -12,10 +12,14 @@ printf("Welcome to C Programming\n");
 }
 ````
  [輸入輸出](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E8%BC%B8%E5%85%A5%E8%BC%B8%E5%87%BA.cpp)
- ````
- ````
- 
+````
+Enter temperature in C: 20.5 
+20.5 C = 68.9 F 
+Enter temperature in F: 80.5 
+80.5 F = 26.9 C
+````
   [平方根](https://github.com/mida147852/107-1-C-programming/blob/master/w01/0911%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)
+ ````
   
 * week 2
 * leap year
@@ -36,5 +40,5 @@ printf("Welcome to C Programming\n");
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mjg4NjMyOV19
+eyJoaXN0b3J5IjpbLTE5MzcwMjQ5NjBdfQ==
 -->
