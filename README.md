@@ -215,7 +215,23 @@ Enter height, type, filled: 6 1 1
 24.Exit 
 =>3
 Enter height, type, filled: 6 1 0
-
+     *
+    * *
+   *   *
+  *     *
+ *********
+ 21. Rectangle  
+22. Vertical Triangle
+23. Tsosceles Triangle 
+24.Exit 
+=>3
+Enter height, type, filled: 6 2 1
+     *
+    * *
+   
+ *********
+ *     *
+ *   *
 ````
 * week 5
 * menu3
@@ -224,5 +240,5 @@ Enter height, type, filled: 6 1 0
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTM3NzAwOCwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTQ5NTI5Njk5MiwxNjYwMTAyMTg2XX0=
 -->
