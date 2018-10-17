@@ -42,21 +42,21 @@ Enter your height: 168
 Enter your weight: 120
 你BMI顯示重度肥胖
 Enter your height: 168
-Enter your weight: 120
-你BMI顯示重度肥胖
+Enter your weight: 90
+你BMI顯示中度肥胖
 Enter your height: 168
-Enter your weight: 120
-你BMI顯示重度肥胖
+Enter your weight: 80
+你BMI顯示輕度肥胖
 Enter your height: 168
-Enter your weight: 120
-你BMI顯示重度肥胖
+Enter your weight: 70
+你BMI顯示過重
 Enter your height: 168
-Enter your weight: 120
-你BMI顯示重度肥胖
+Enter your weight: 60
+你BMI顯示正常
 Enter your height: 168
-Enter your weight: 120
-你BMI顯示重度肥胖
-Enter your height: 168
+Enter your weight: 40
+你BMI顯示過輕
+Enter your height: -1
 Enter your weight: -1
 ````
 * [sum](https://github.com/mida147852/107-1-C-programming/blob/master/W03/sum)
@@ -95,8 +95,8 @@ Enter seconds: 100000
 100000 seconds = 27:46:40 
 Enter seconds: -1
 ````
-* week 4
-* menu
+## week 4
+* [menu]
 * menu2
 
 * week 5
@@ -106,5 +106,5 @@ Enter seconds: -1
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzY4MDIzNiwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTk4Mzc0OTMwOSwxNjYwMTAyMTg2XX0=
 -->
