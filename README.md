@@ -173,6 +173,7 @@ Enter height, width, filled: 5 8 0
 *      *
 *      *
 ********
+
 Main Menu 
 19.Rectangle 
 20.Vertical Triangle 
@@ -185,6 +186,7 @@ Enter height, width, filled: 5 8 1
 ********
 ********
 ********
+
 Main Menu 
 21. Rectangle  
 22. Vertical Triangle
@@ -197,7 +199,8 @@ Enter height, type, filled: 6 1 0
 * * 
 *  * 
 *****
-  Main Menu 
+
+Main Menu 
 24. Rectangle  
 25. Vertical Triangle
 26. Tsosceles Triangle 
@@ -209,9 +212,10 @@ Enter height, type, filled: 6 1 1
 *** 
 **** 
 *****
-27. Rectangle  
-28. Vertical Triangle
-29. Tsosceles Triangle 
+Main Menu
+27.Rectangle  
+28.Vertical Triangle
+29.Tsosceles Triangle 
 24.Exit 
 =>3
 Enter height, type, filled: 6 1 0
@@ -220,6 +224,7 @@ Enter height, type, filled: 6 1 0
    *   *
   *     *
  *********
+ Main Menu
 30. Rectangle  
 31. Vertical Triangle
 32. Tsosceles Triangle 
@@ -231,7 +236,8 @@ Enter height, type, filled: 6 2 1
    *****
     ***
      * 
- 21. Rectangle  
+ 
+21. Rectangle  
 33. Vertical Triangle
 34. Tsosceles Triangle 
 24.Exit 
@@ -243,12 +249,21 @@ Enter height, type, filled: 6 2 1
 Main Menu 
 35.leap 
 36.timeconvert 
-Exit => 1
+3.Exit 
+=> 1
+Enter year: 2000 
+Year 2000 is a leap year.
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 1
 ````
 
 * week 6
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkzODI5NzQsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbNzg3NDY5MDYxLDE2NjAxMDIxODZdfQ==
 -->
