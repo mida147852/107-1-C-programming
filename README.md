@@ -46,8 +46,22 @@ Enter seconds: 20000
 Enter seconds: 20000 
 20000 seconds = 05:33:20
 ````
-* [while leap year]()
+* [while leap year](https://github.com/mida147852/107-1-C-programming/blob/master/W03/while%20leap%20year)
+````
+Enter year: 2000 
+Year 2000 is a leap year.
+Enter year: 2018 
+Year 2018 is not a leap year. 
+Enter year: 2020 
+Year 2020 is a leap year. 
+Enter year: 2100 
+Year 2100 is not a leap year. 
+Enter year: -1
+````
 * [while seconds](https://github.com/mida147852/107-1-C-programming/blob/master/W03/while%20seconds)
+````
+
+````
 * week 4
 * menu
 * menu2
@@ -59,5 +73,5 @@ Enter seconds: 20000
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzU4MzIxMCwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbMTczMTQyNDUyMSwxNjYwMTAyMTg2XX0=
 -->
