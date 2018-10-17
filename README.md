@@ -121,9 +121,9 @@ Enter height and type: 5 1
   *  * 
   *****
 Main Menu 
-7. Rectangle 
-8. Vertical Triangle 
-9. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
 => 2 
 Enter height and type: 5 2
      * 
@@ -132,9 +132,9 @@ Enter height and type: 5 2
   *  *
  ***** 
 Main Menu 
-10. Rectangle 
-11. Vertical Triangle 
-12. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
 => 2 
 Enter height and type: 5 3 
 *****
@@ -143,9 +143,9 @@ Enter height and type: 5 3
 **
 * 
 Main Menu 
-13. Rectangle 
-14. Vertical Triangle 
-15. Exit
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit
  => 2 
 Enter height and type: 5 4 
  *****
@@ -154,18 +154,18 @@ Enter height and type: 5 4
     ** 
      *
 Main Menu 
-16. Rectangle 
-17. Vertical Triangle 
-18. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
 => 3
 ````
 * [menu2](https://github.com/mida147852/107-1-C-programming/blob/master/w04/menu2.cpp)
 ````
 Main Menu 
-19.Rectangle 
-20.Vertical Triangle 
-3.Tsosceles Triangle 
-19. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Tsosceles Triangle 
+4. Exit 
 => 1
 Enter height, width, filled: 5 8 0
 ********
@@ -175,10 +175,10 @@ Enter height, width, filled: 5 8 0
 ********
 
 Main Menu 
-19.Rectangle 
-20.Vertical Triangle 
-3.Tsosceles Triangle 
-20. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Tsosceles Triangle 
+4. Exit 
 => 1
 Enter height, width, filled: 5 8 1
 ********
@@ -188,10 +188,10 @@ Enter height, width, filled: 5 8 1
 ********
 
 Main Menu 
-21. Rectangle  
-22. Vertical Triangle
-23. Tsosceles Triangle 
-24.Exit 
+1. Rectangle  
+2. Vertical Triangle
+3. Tsosceles Triangle 
+4. Exit 
 =>2
 Enter height, type, filled: 6 1 0
 * 
@@ -201,10 +201,10 @@ Enter height, type, filled: 6 1 0
 *****
 
 Main Menu 
-24. Rectangle  
-25. Vertical Triangle
-26. Tsosceles Triangle 
-24.Exit 
+1. Rectangle  
+2. Vertical Triangle
+3. Tsosceles Triangle 
+4. Exit 
 =>2
 Enter height, type, filled: 6 1 1
 * 
@@ -213,10 +213,10 @@ Enter height, type, filled: 6 1 1
 **** 
 *****
 Main Menu
-27.Rectangle  
-28.Vertical Triangle
-29.Tsosceles Triangle 
-24.Exit 
+1. Rectangle  
+2. Vertical Triangle
+3. Tsosceles Triangle 
+4. Exit 
 =>3
 Enter height, type, filled: 6 1 0
      *
@@ -226,7 +226,7 @@ Enter height, type, filled: 6 1 0
  *********
  
 Main Menu
-30. Rectangle  
+. Rectangle  
 31. Vertical Triangle
 32. Tsosceles Triangle 
 24.Exit 
@@ -328,5 +328,5 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjU0MjI4OSwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbMzI5MDY5NjY0LDE2NjAxMDIxODZdfQ==
 -->
