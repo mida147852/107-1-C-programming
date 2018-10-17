@@ -191,6 +191,30 @@ Main Menu
 23. Tsosceles Triangle 
 24.Exit 
 =>2
+Enter height, type, filled: 6 1 0
+* 
+**
+* * 
+*  * 
+*****
+  Main Menu 
+21. Rectangle  
+22. Vertical Triangle
+23. Tsosceles Triangle 
+24.Exit 
+=>2
+Enter height, type, filled: 6 1 1
+* 
+**
+*** 
+**** 
+*****
+21. Rectangle  
+22. Vertical Triangle
+23. Tsosceles Triangle 
+24.Exit 
+=>3
+Enter height, type, filled: 6 1 0
 
 ````
 * week 5
@@ -200,5 +224,5 @@ Main Menu
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODE0OTA0MCwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTQ3NTM3NzAwOCwxNjYwMTAyMTg2XX0=
 -->
