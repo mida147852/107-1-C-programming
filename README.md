@@ -98,17 +98,29 @@ Enter seconds: -1
 ## week 4
 * [menu](https://github.com/mida147852/107-1-C-programming/blob/master/w04/menu.cpp)
 ````
-Main Menu 1. 
-Rectangle 2. 
-Vertical Triangle 3. 
-Exit => 1 
+Main Menu 
+1. Rectangle 
+2. Vertical Triangle
+3. Exit 
+=> 1 
 Enter height and width: 5 8 
 ********
 *      *
 *      *
 *      *
 ********
- Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 1 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+Main Menu 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=> 2 
+Enter height and type: 5 1
+  * ** * * * * ***** 
+  Main Menu 
+  1. Rectangle 
+ 2. Vertical Triangle 
+5. Exit 
+6. => 2 Enter height and type: 5 2 * ** * * * * ***** Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 3 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
 ````
 * [menu2](https://github.com/mida147852/107-1-C-programming/blob/master/w04/menu2.cpp)
 ````
@@ -121,5 +133,5 @@ Enter height and width: 5 8
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQxNTk2NDAsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbMzg0MDg0Nzg0LDE2NjAxMDIxODZdfQ==
 -->
