@@ -103,8 +103,8 @@ Rectangle 2.
 Vertical Triangle 3. 
 Exit => 1 
 Enter height and width: 5 8 
-******** 
-*      *
+*********
+*
 *      *
 *      *
 *      *
@@ -122,5 +122,5 @@ Enter height and width: 5 8
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA3NDg3MjQsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbLTEyMTMyMjY0NzYsMTY2MDEwMjE4Nl19
 -->
