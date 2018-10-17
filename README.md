@@ -27,13 +27,17 @@ two roots are x1 = 1.0 x2 = 0.5
 ## week 2
  - [leap year](https://github.com/mida147852/107-1-C-programming/blob/master/w02/leap%20year)
 ````
-Enter year: 2000 Year 2000 is a leap year.
+Enter year: 2000 
+Year 2000 is a leap year.
 ````
-* seconds
-
-* week 3
-* BMI
-* sum
+* [seconds](https://github.com/mida147852/107-1-C-programming/blob/master/w02/seconds)
+````
+Enter seconds: 20000 
+20000 seconds = 05:33:20
+````
+## week 3
+* [BMI]()
+* [sum]()
 
 * week 4
 * menu
@@ -46,5 +50,5 @@ Enter year: 2000 Year 2000 is a leap year.
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDEyMzI1MTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbNDg3MzU1MDIsMTY2MDEwMjE4Nl19
 -->
