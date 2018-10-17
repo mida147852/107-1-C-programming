@@ -110,9 +110,9 @@ Enter height and width: 5 8
 *      *
 ********
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+4. Rectangle 
+5. Vertical Triangle 
+6. Exit 
 => 2 
 Enter height and type: 5 1
   * 
@@ -121,9 +121,9 @@ Enter height and type: 5 1
   *  * 
   *****
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+7. Rectangle 
+8. Vertical Triangle 
+9. Exit 
 => 2 
 Enter height and type: 5 2
      * 
@@ -132,16 +132,30 @@ Enter height and type: 5 2
   *  *
  ***** 
 Main Menu 
-1. Rectangle 
-2. Vertical Triangle 
-3. Exit 
+10. Rectangle 
+11. Vertical Triangle 
+12. Exit 
 => 2 
 Enter height and type: 5 3 
 *****
 *  * 
 * * 
 **
-** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 2 Enter height and type: 5 4 ***** * * * * ** * Main Menu 1. Rectangle 2. Vertical Triangle 3. Exit => 3
+* 
+Main Menu 
+13. Rectangle 
+14. 2. Vertical Triangle 
+15. 3. Exit
+ => 2 
+Enter height and type: 5 4 
+ *****
+  *  * 
+   * \* * ** * 
+Main Menu 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
+=> 3
 ````
 * [menu2](https://github.com/mida147852/107-1-C-programming/blob/master/w04/menu2.cpp)
 ````
@@ -154,5 +168,5 @@ Enter height and type: 5 3
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjY0ODQ5NCwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTE0NzI3NDkwOTUsMTY2MDEwMjE4Nl19
 -->
