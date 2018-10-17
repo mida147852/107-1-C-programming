@@ -245,7 +245,7 @@ Main Menu
 24.Exit 
 =>4
 ````
-* week 5
+## week 5
 * [menu3](https://github.com/mida147852/107-1-C-programming/blob/master/w05/menu3)
 ````
 Main Menu 
@@ -284,12 +284,28 @@ Main Menu
 35.leap 
 36.timeconvert 
 3.Exit 
-=> 1
+=> 2
+Enter hh:mm:ss 10:10:10 
+10:10:10 = 36610 seconds
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 2
+Enter hh:mm:ss  0:30:10 
+00:30:10 = 1810 seconds
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 3
 ````
 
 * week 6
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjkxMzQ3LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbMjMzMTc3NTAzLDE2NjAxMDIxODZdfQ==
 -->
