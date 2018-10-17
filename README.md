@@ -224,7 +224,8 @@ Enter height, type, filled: 6 1 0
    *   *
   *     *
  *********
- Main Menu
+ 
+Main Menu
 30. Rectangle  
 31. Vertical Triangle
 32. Tsosceles Triangle 
@@ -237,6 +238,7 @@ Enter height, type, filled: 6 2 1
     ***
      * 
  
+Main Menu 
 21. Rectangle  
 33. Vertical Triangle
 34. Tsosceles Triangle 
@@ -259,11 +261,35 @@ Main Menu
 36.timeconvert 
 3.Exit 
 => 1
+Enter year: 2018 
+Year 2018 is not a leap year.
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 1
+Enter year: 2020 
+Year 2020 is a leap year.
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 1
+Enter year: 2100 
+Year 2100 is not a leap year.
+
+Main Menu 
+35.leap 
+36.timeconvert 
+3.Exit 
+=> 1
 ````
 
 * week 6
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NDY5MDYxLDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbNjY4NjkxMzQ3LDE2NjAxMDIxODZdfQ==
 -->
