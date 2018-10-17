@@ -192,7 +192,7 @@ Main Menu
 2. Vertical Triangle
 3. Tsosceles Triangle 
 4. Exit 
-=>2
+=> 2
 Enter height, type, filled: 6 1 0
 * 
 **
@@ -205,7 +205,7 @@ Main Menu
 2. Vertical Triangle
 3. Tsosceles Triangle 
 4. Exit 
-=>2
+=> 2
 Enter height, type, filled: 6 1 1
 * 
 **
@@ -217,7 +217,7 @@ Main Menu
 2. Vertical Triangle
 3. Tsosceles Triangle 
 4. Exit 
-=>3
+=> 3
 Enter height, type, filled: 6 1 0
      *
     * *
@@ -226,11 +226,11 @@ Enter height, type, filled: 6 1 0
  *********
  
 Main Menu
-. Rectangle  
-31. Vertical Triangle
-32. Tsosceles Triangle 
-24.Exit 
-=>3
+1. Rectangle  
+2. Vertical Triangle
+3. Tsosceles Triangle 
+4. Exit 
+=> 3
 Enter height, type, filled: 6 2 1
  *********
   *******
@@ -239,66 +239,66 @@ Enter height, type, filled: 6 2 1
      * 
  
 Main Menu 
-21. Rectangle  
-33. Vertical Triangle
-34. Tsosceles Triangle 
-24.Exit 
-=>4
+1. Rectangle  
+2. Vertical Triangle
+3. Tsosceles Triangle 
+4.Exit 
+=> 4
 ````
 ## week 5
 * [menu3](https://github.com/mida147852/107-1-C-programming/blob/master/w05/menu3)
 ````
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 1
 Enter year: 2000 
 Year 2000 is a leap year.
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 1
 Enter year: 2018 
 Year 2018 is not a leap year.
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 1
 Enter year: 2020 
 Year 2020 is a leap year.
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 1
 Enter year: 2100 
 Year 2100 is not a leap year.
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 2
 Enter hh:mm:ss 10:10:10 
 10:10:10 = 36610 seconds
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 2
 Enter hh:mm:ss  0:30:10 
 00:30:10 = 1810 seconds
 
 Main Menu 
-35.leap 
-36.timeconvert 
+1.leap 
+2.timeconvert 
 3.Exit 
 => 3
 ````
@@ -328,5 +328,5 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MDY5NjY0LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
 -->
