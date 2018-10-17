@@ -304,8 +304,19 @@ Main Menu
 ````
 
 * week 6
-* dayspassed
-* sort
+* [dayspassed](https://github.com/mida147852/107-1-C-programming/blob/master/w06/dayspassed.cpp)
+````
+Enter year: 2018 
+Enter month and day: 10 16 
+289 days passed since 1/1/2018
+Continue (Y/N)? y Enter year: 2020 Enter month and day: 3 1 61 days passed since 1/1/2020 Continue (Y/N)? y Enter year: 2100 Enter month and day: 3 1 60 days passed since 1/1/2100 Continue (Y/N)? n Process returned 0 (0x0) execution time : 57.581 s Press any key to continue.
+````
+* [sort](https://github.com/mida147852/107-1-C-programming/blob/master/w06/sort.cpp)
+````
+
+````
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMTc3NTAzLDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbNjk2NzI2Mjg3LDE2NjAxMDIxODZdfQ==
 -->
