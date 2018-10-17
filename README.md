@@ -198,9 +198,9 @@ Enter height, type, filled: 6 1 0
 *  * 
 *****
   Main Menu 
-21. Rectangle  
-22. Vertical Triangle
-23. Tsosceles Triangle 
+24. Rectangle  
+25. Vertical Triangle
+26. Tsosceles Triangle 
 24.Exit 
 =>2
 Enter height, type, filled: 6 1 1
@@ -209,9 +209,9 @@ Enter height, type, filled: 6 1 1
 *** 
 **** 
 *****
-21. Rectangle  
-22. Vertical Triangle
-23. Tsosceles Triangle 
+27. Rectangle  
+28. Vertical Triangle
+29. Tsosceles Triangle 
 24.Exit 
 =>3
 Enter height, type, filled: 6 1 0
@@ -220,9 +220,9 @@ Enter height, type, filled: 6 1 0
    *   *
   *     *
  *********
-21. Rectangle  
-22. Vertical Triangle
-23. Tsosceles Triangle 
+30. Rectangle  
+31. Vertical Triangle
+32. Tsosceles Triangle 
 24.Exit 
 =>3
 Enter height, type, filled: 6 2 1
@@ -232,17 +232,23 @@ Enter height, type, filled: 6 2 1
     ***
      * 
  21. Rectangle  
-22. Vertical Triangle
-23. Tsosceles Triangle 
+33. Vertical Triangle
+34. Tsosceles Triangle 
 24.Exit 
 =>4
 ````
 * week 5
-* menu3
+* [menu3](https://github.com/mida147852/107-1-C-programming/blob/master/w05/menu3)
+````
+Main Menu 
+35.leap 
+36.timeconvert 
+Exit => 1
+````
 
 * week 6
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzA0NTAxNywxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTE5OTkzODI5NzQsMTY2MDEwMjE4Nl19
 -->
