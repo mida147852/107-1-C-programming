@@ -36,9 +36,18 @@ Enter seconds: 20000
 20000 seconds = 05:33:20
 ````
 ## week 3
-* [BMI]()
-* [sum]()
-
+* [BMI](https://github.com/mida147852/107-1-C-programming/blob/master/W03/BMI)
+````
+Enter seconds: 20000 
+20000 seconds = 05:33:20
+````
+* [sum](https://github.com/mida147852/107-1-C-programming/blob/master/W03/sum)
+````
+Enter seconds: 20000 
+20000 seconds = 05:33:20
+````
+* [while leap year]()
+* [while seconds](https://github.com/mida147852/107-1-C-programming/blob/master/W03/while%20seconds)
 * week 4
 * menu
 * menu2
@@ -50,5 +59,5 @@ Enter seconds: 20000
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3MzU1MDIsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbMTIyMzU4MzIxMCwxNjYwMTAyMTg2XX0=
 -->
