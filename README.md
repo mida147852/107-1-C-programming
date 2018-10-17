@@ -24,8 +24,8 @@ Enter a b c: 2 -3 1
 For equation 2 x^2 -3 x + 1 =0
 two roots are x1 = 1.0 x2 = 0.5
 ````
-* week 2
-* leap year
+## week 2
+- [ leap year ] 
 * seconds
 
 * week 3
@@ -43,5 +43,5 @@ two roots are x1 = 1.0 x2 = 0.5
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbMTgxMTQxMDQ4NywxNjYwMTAyMTg2XX0=
 -->
