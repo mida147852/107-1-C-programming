@@ -177,9 +177,20 @@ Main Menu
 19.Rectangle 
 20.Vertical Triangle 
 3.Tsosceles Triangle 
-19. Exit 
+20. Exit 
 => 1
 Enter height, width, filled: 5 8 1
+********
+********
+********
+********
+********
+Main Menu 
+21. Rectangle  
+22. Vertical Triangle
+23. Tsosceles Triangle 
+24.Exit 
+=>2
 
 ````
 * week 5
@@ -189,5 +200,5 @@ Enter height, width, filled: 5 8 1
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTc5OTMxMSwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbMTIyODE0OTA0MCwxNjYwMTAyMTg2XX0=
 -->
