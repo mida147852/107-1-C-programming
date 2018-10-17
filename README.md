@@ -110,9 +110,9 @@ Enter height and width: 5 8
 *      *
 ********
 Main Menu 
-4. Rectangle 
-5. Vertical Triangle 
-6. Exit 
+1. Rectangle 
+2. Vertical Triangle 
+3. Exit 
 => 2 
 Enter height and type: 5 1
   * 
@@ -309,14 +309,24 @@ Main Menu
 Enter year: 2018 
 Enter month and day: 10 16 
 289 days passed since 1/1/2018
-Continue (Y/N)? y Enter year: 2020 Enter month and day: 3 1 61 days passed since 1/1/2020 Continue (Y/N)? y Enter year: 2100 Enter month and day: 3 1 60 days passed since 1/1/2100 Continue (Y/N)? n Process returned 0 (0x0) execution time : 57.581 s Press any key to continue.
+Continue (Y/N)? y 
+Enter year: 2020 
+Enter month and day: 3 1 
+61 days passed since 1/1/2020
+Continue (Y/N)? y 
+Enter year: 2100 
+Enter month and day: 3 1 
+60 days passed since 1/1/2100
+Continue (Y/N)? n
+Process returned 0 (0x0)execution time : 57.581 s Press any key to continue.
 ````
 * [sort](https://github.com/mida147852/107-1-C-programming/blob/master/w06/sort.cpp)
 ````
-
+original: 34 78 12  9 87 66 88 99 56 11 
+sorting :  9 11 12 34 56 66 78 87 88 99
 ````
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NzI2Mjg3LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbMTIyMjU0MjI4OSwxNjYwMTAyMTg2XX0=
 -->
