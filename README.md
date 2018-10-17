@@ -38,8 +38,26 @@ Enter seconds: 20000
 ## week 3
 * [BMI](https://github.com/mida147852/107-1-C-programming/blob/master/W03/BMI)
 ````
-Enter seconds: 20000 
-20000 seconds = 05:33:20
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: 120
+你BMI顯示重度肥胖
+Enter your height: 168
+Enter your weight: -1
 ````
 * [sum](https://github.com/mida147852/107-1-C-programming/blob/master/W03/sum)
 ````
@@ -88,5 +106,5 @@ Enter seconds: -1
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUzMzk2NiwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTI4MzY4MDIzNiwxNjYwMTAyMTg2XX0=
 -->
