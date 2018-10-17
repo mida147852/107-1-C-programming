@@ -25,7 +25,10 @@ For equation 2 x^2 -3 x + 1 =0
 two roots are x1 = 1.0 x2 = 0.5
 ````
 ## week 2
-- [ leap year ] 
+ - [leap year](https://github.com/mida147852/107-1-C-programming/blob/master/w02/leap%20year)
+````
+Enter year: 2000 Year 2000 is a leap year.
+````
 * seconds
 
 * week 3
@@ -43,5 +46,5 @@ two roots are x1 = 1.0 x2 = 0.5
 * dayspassed
 * sort
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTQxMDQ4NywxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTE2MDEyMzI1MTUsMTY2MDEwMjE4Nl19
 -->
