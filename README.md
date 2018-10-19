@@ -326,10 +326,11 @@ original: 34 78 12  9 87 66 88 99 56 11
 sorting :  9 11 12 34 56 66 78 87 88 99
 ````
 ## exercise
-- 
+- [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
+- [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Njk4MjIyNiw0ODU4MjIwOTUsMTY2MD
+eyJoaXN0b3J5IjpbMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MD
 EwMjE4Nl19
 -->
