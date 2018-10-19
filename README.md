@@ -325,8 +325,11 @@ Process returned 0 (0x0)execution time : 57.581 s Press any key to continue.
 original: 34 78 12  9 87 66 88 99 56 11 
 sorting :  9 11 12 34 56 66 78 87 88 99
 ````
+## exercise
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbMTQ3Njk4MjIyNiw0ODU4MjIwOTUsMTY2MD
+EwMjE4Nl19
 -->
