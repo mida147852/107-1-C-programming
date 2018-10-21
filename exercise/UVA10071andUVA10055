@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int UVA10071(int a,int b)
+{
+    printf("%d \n",2*a*b);
+}
+int UVA10055(int a,int b)
+{
+    if(a<=b)
+        printf("%d \n",b-a);
+    else
+        return 0;
+}
+int main()
+{
+    int a,b,c;
+    printf("1.UVA10055 \n");
+    printf("2.UVA10071 \n");
+    printf("Enter you want see it \n");
+    printf("=>  ");
+    scanf("%d",&c);
+    if(c>=3)
+        return 0;
+    switch(c)
+    {
+    case 1:
+        printf("Enter two number \n");
+        printf("=> ");
+        scanf("%d %d",&a,&b);
+        UVA10055(a,b);
+        break;
+    case 2:
+        printf("Enter two number \n");
+        printf("=>  ");
+        scanf("%d %d",&a,&b);
+        UVA10071(a,b);
+        break;
+    }
+    return 0;
+}
