@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+
+int main()
+{
+    int n,c=0,k=1,q;
+    printf("Enter you want sum \n");
+    printf("=> ");
+    scanf("%d",&n);
+    printf("let do it");
+    for(int i=1;i<=(n-1)/2;i++)
+    {
+        q=2*i+1;
+        k=k+q;
+    }
+    for(int i=k-3;i<k;i++)
+    {
+            q=2*i+1;
+            c=c+q;
+    }
+    printf("your input %d ,sum is %d",n,c);
+    return 0;
+}
