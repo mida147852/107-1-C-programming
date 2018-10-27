@@ -332,7 +332,17 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 ````
 - [gcd](https://github.com/mida147852/107-1-C-programming/blob/master/w07/gcd.cpp)
 ````
+rgcd(48,126) = 6
+gcd(48,126) = 6
 
+rgcd(48,128) = 16
+gcd(48,128) = 16
+
+rgcd(48,144) = 48
+gcd(48,144) = 48
+
+rgcd(48,48) = 48
+gcd(48,48) = 48
 ````
 - [gcd2](https://github.com/mida147852/107-1-C-programming/blob/master/w07/gcd2.cpp)
 ````
@@ -376,6 +386,6 @@ sumodd2(9) = 25;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2NTU1NjMsLTE2MDg2OTQxNDgsMT
-MwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbNjkzNTE0NzMxLC0xNjA4Njk0MTQ4LDEzMD
+Y5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
 -->
