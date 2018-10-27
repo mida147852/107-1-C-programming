@@ -401,9 +401,11 @@ gcd(48,144) = 48
 rgcd(48,48) = 48
 gcd(48,48) = 48
 ````
-- [gcd2](https://github.com/mida147852/107-1-C-programming/blob/master/w07/gcd2.cpp)
+- [Fib.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w07/Fib.cpp)
 ````
-
+fib(3) = 2
+fib(10) = 55
+fib(30) = 832040
 ````
 - [sum](https://github.com/mida147852/107-1-C-programming/blob/master/w07/sum.cpp)
 ````
@@ -443,6 +445,6 @@ sumodd2(9) = 25;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTc3OTE3OCwtMTYwODY5NDE0OCwxMz
-A2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbOTE1OTg2MDE0LC0xNjA4Njk0MTQ4LDEzMD
+Y5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
 -->
