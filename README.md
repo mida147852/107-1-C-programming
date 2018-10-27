@@ -325,7 +325,7 @@ Process returned 0 (0x0)execution time : 57.581 s Press any key to continue.
 original: 34 78 12  9 87 66 88 99 56 11 
 sorting :  9 11 12 34 56 66 78 87 88 99
 ````
-## week 7
+## week 7  
 - [Hanoi tower](https://github.com/mida147852/107-1-C-programming/blob/master/w07/Hanoi%20tower.cpp)
 ````
 tower1(n,from,aux,to)
@@ -401,7 +401,7 @@ gcd(48,144) = 48
 rgcd(48,48) = 48
 gcd(48,48) = 48
 ````
-- [Fib.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w07/Fib.cpp)
+- [Fib](https://github.com/mida147852/107-1-C-programming/blob/master/w07/Fib.cpp)
 ````
 fib(3) = 2
 fib(10) = 55
@@ -445,6 +445,6 @@ sumodd2(9) = 25;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1OTg2MDE0LC0xNjA4Njk0MTQ4LDEzMD
-Y5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbLTEzNDA2NzMzNTcsLTE2MDg2OTQxNDgsMT
+MwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
 -->
