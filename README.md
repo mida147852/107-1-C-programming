@@ -340,7 +340,18 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 ````
 - [sum](https://github.com/mida147852/107-1-C-programming/blob/master/w07/sum.cpp)
 ````
-
+Enter n: 10
+sum(10)=55
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
 ````
 - [sumodd](https://github.com/mida147852/107-1-C-programming/blob/master/w07/sumodd.cpp)
 ````
@@ -358,6 +369,6 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg2OTQxNDgsMTMwNjk1MTY3MSw0OD
-U4MjIwOTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbNTI4MDcyMjMsLTE2MDg2OTQxNDgsMTMwNj
+k1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
 -->
