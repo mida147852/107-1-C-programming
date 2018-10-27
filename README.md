@@ -328,7 +328,64 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 ## week 7
 - [Hanoi tower](https://github.com/mida147852/107-1-C-programming/blob/master/w07/Hanoi%20tower.cpp)
 ````
+tower1(n,from,aux,to)
+A -> C
+A -> B
+C -> B
+A -> C
+B -> A
+B -> C
+A -> C
 
+
+tower2(n,to,aux,from)
+C -> A
+C -> B
+A -> B
+C -> A
+B -> C
+B -> A
+C -> A
+
+
+tower3(n,from,to,aux)
+A -> B
+A -> C
+B -> C
+A -> B
+C -> A
+C -> B
+A -> B
+
+
+tower4(n,to,from,aux)
+B -> A
+B -> C
+A -> C
+B -> A
+C -> B
+C -> A
+B -> A
+
+
+tower5(n,aux,from,to)
+B -> C
+B -> A
+C -> A
+B -> C
+A -> B
+A -> C
+B -> C
+
+
+tower6(n,aux,to,from)
+C -> B
+C -> A
+B -> A
+C -> B
+A -> C
+A -> B
+C -> B
 ````
 - [gcd](https://github.com/mida147852/107-1-C-programming/blob/master/w07/gcd.cpp)
 ````
@@ -386,6 +443,6 @@ sumodd2(9) = 25;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzNTE0NzMxLC0xNjA4Njk0MTQ4LDEzMD
-Y5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbLTY4MTc3OTE3OCwtMTYwODY5NDE0OCwxMz
+A2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAyMTg2XX0=
 -->
