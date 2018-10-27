@@ -303,7 +303,7 @@ Main Menu
 => 3
 ````
 
-* week 6
+## week 6
 * [dayspassed](https://github.com/mida147852/107-1-C-programming/blob/master/w06/dayspassed.cpp)
 ````
 Enter year: 2018 
@@ -325,16 +325,23 @@ Process returned 0 (0x0)execution time : 57.581 s Press any key to continue.
 original: 34 78 12  9 87 66 88 99 56 11 
 sorting :  9 11 12 34 56 66 78 87 88 99
 ````
+## week 7
+- **Hanoi tower]
+-
+- 
+- 
+- 
+- 
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
 - [UVA100](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA100)
 - [UVA488](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA488)
 - [UVA10071andUVA10055](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA10071andUVA10055)
-- [**UVA913*](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
+- [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDM3Mjg0MSwxMzA2OTUxNjcxLDQ4NT
-gyMjA5NSwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTE0NTU4NDU0MjEsMTMwNjk1MTY3MSw0OD
+U4MjIwOTUsMTY2MDEwMjE4Nl19
 -->
