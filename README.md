@@ -328,9 +328,11 @@ sorting :  9 11 12 34 56 66 78 87 88 99
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
+- [UVA100](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA100)
+- [UVA](488)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MD
-EwMjE4Nl19
+eyJoaXN0b3J5IjpbMTE4NjgzMjc2OSwxMzA2OTUxNjcxLDQ4NT
+gyMjA5NSwxNjYwMTAyMTg2XX0=
 -->
