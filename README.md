@@ -352,10 +352,17 @@ sum(10)=55
 3
 2
 1
+rsum(10)=55
 ````
 - [sumodd](https://github.com/mida147852/107-1-C-programming/blob/master/w07/sumodd.cpp)
 ````
+Enter n: 5
+sumodd1(5) = 25;
+sumodd2(5) = 9;
 
+Enter n: 9
+sumodd1(9) = 81;
+sumodd2(9) = 25;
 ````
 ## week 8
 
@@ -369,6 +376,6 @@ sum(10)=55
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MDcyMjMsLTE2MDg2OTQxNDgsMTMwNj
-k1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbLTE0MzI2NTU1NjMsLTE2MDg2OTQxNDgsMT
+MwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
 -->
