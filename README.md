@@ -484,14 +484,34 @@ Enter N: 10
 ## week 11
 - [Knight Tour(smart move).cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour(smart%20move).cpp)
 ````
+1: (row,col)=(2,0)
 
+23  2 21 18 25  4 37 54
+20 17 24  3 38 53 26  5
+ 1 22 19 42 27 36 55 52
+16 43 28 39 56 63  6 35
+29 12 47 64 41 58 51 62
+44 15 40 57 48 61 34  7
+11 30 13 46  9 32 59 50
+14 45 10 31 60 49  8 33
+
+Total moves: 64
 ````
 - [Knight Tour1.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour1.cpp)
 ````
+ 0  8 19 44 11  6  3 14
+20 43 10  7  2 13 38  5
+ 9 18  1 12 37  4 15 28
+ 0 21 42 31 16 27 36 39
+ 0 32 17  0 35 40 29 26
+22  0 34 41 30 25  0  0
+33  0  0 24  0  0  0  0
+ 0 23  0  0  0  0  0  0
 
+Total moves: 44
 ````
 ## week 12
-- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
+- [Lotto(s)pointer.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto(s)pointer.cpp)
 ````
 
 ````
@@ -509,7 +529,7 @@ Enter N: 10
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk3NjQyNjYsLTEzNDA2NzMzNTcsLTE2MD
-g2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4
-Nl19
+eyJoaXN0b3J5IjpbMzAwNTAwNDk2LC0xMzQwNjczMzU3LC0xNj
+A4Njk0MTQ4LDEzMDY5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIx
+ODZdfQ==
 -->
