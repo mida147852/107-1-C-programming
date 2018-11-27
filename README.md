@@ -434,6 +434,8 @@ sumodd1(9) = 81;
 sumodd2(9) = 25;
 ````
 ## week 8
+- [magic](https://github.com/mida147852/107-1-C-programming/blob/master/W08/magic.cpp)
+- [sumodd]()
 
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
@@ -445,6 +447,7 @@ sumodd2(9) = 25;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA2NzMzNTcsLTE2MDg2OTQxNDgsMT
-MwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbLTI5NTI2NDMxMywtMTM0MDY3MzM1NywtMT
+YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
+MTg2XX0=
 -->
