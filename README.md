@@ -481,6 +481,12 @@ Enter N: 10
 2016/11/31
 2015/03/25
 ````
+## week 11
+- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
+
+
+## week 12
+- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -491,7 +497,7 @@ Enter N: 10
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQwNTQ4MzQsLTEzNDA2NzMzNTcsLT
-E2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEw
-MjE4Nl19
+eyJoaXN0b3J5IjpbMTM4NDkxMjcwNywtMTM0MDY3MzM1NywtMT
+YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
+MTg2XX0=
 -->
