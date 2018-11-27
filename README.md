@@ -450,7 +450,39 @@ Knight Move
   4  18   7  21  15
  23  12   1  20   9
 ````
+## week 9
+- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/W08/magic.cpp)
+````
+Diagonal Move
+ 11  18  25   2   9
+ 10  12  19  21   3
+  4   6  13  20  22
+ 23   5   7  14  16
+ 17  24   1   8  15
 
+Knight Move
+ 17   6  25  14   3
+ 11   5  19   8  22
+ 10  24  13   2  16
+  4  18   7  21  15
+ 23  12   1  20   9
+````
+- [dates.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/W08/magic.cpp)
+````
+Diagonal Move
+ 11  18  25   2   9
+ 10  12  19  21   3
+  4   6  13  20  22
+ 23   5   7  14  16
+ 17  24   1   8  15
+
+Knight Move
+ 17   6  25  14   3
+ 11   5  19   8  22
+ 10  24  13   2  16
+  4  18   7  21  15
+ 23  12   1  20   9
+````
 
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
@@ -462,7 +494,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA4MTM3MjksLTEzNDA2NzMzNTcsLT
-E2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEw
-MjE4Nl19
+eyJoaXN0b3J5IjpbLTM4MDkyNDE0NiwtMTM0MDY3MzM1NywtMT
+YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
+MTg2XX0=
 -->
