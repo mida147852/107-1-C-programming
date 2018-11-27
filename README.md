@@ -451,39 +451,36 @@ Knight Move
  23  12   1  20   9
 ````
 ## week 9
-- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/W08/magic.cpp)
+- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
 ````
-Diagonal Move
- 11  18  25   2   9
- 10  12  19  21   3
-  4   6  13  20  22
- 23   5   7  14  16
- 17  24   1   8  15
+Enter N: 10
 
-Knight Move
- 17   6  25  14   3
- 11   5  19   8  22
- 10  24  13   2  16
-  4  18   7  21  15
- 23  12   1  20   9
+2018/12/11   41 11 45 13 08 13
+2010/06/29   07 21 15 02 07 36
+2019/01/28   03 32 07 48 35 27
+2015/03/25   09 20 23 24 08 19
+2014/08/17   46 39 47 12 03 34
+2010/10/24   30 09 19 09 29 26
+2016/08/13   40 41 44 18 47 43
+2015/01/06   25 25 08 11 07 41
+2016/10/05   14 13 36 41 21 30
+2016/01/22   39 32 18 27 16 45
 ````
-- [dates.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/W08/magic.cpp)
+- [dates.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/dates.cpp)
 ````
-Diagonal Move
- 11  18  25   2   9
- 10  12  19  21   3
-  4   6  13  20  22
- 23   5   7  14  16
- 17  24   1   8  15
+Enter N: 10
 
-Knight Move
- 17   6  25  14   3
- 11   5  19   8  22
- 10  24  13   2  16
-  4  18   7  21  15
- 23  12   1  20   9
+2018/12/11
+2011/06/08
+2015/07/24
+2010/06/29
+2015/04/11
+2017/08/08
+2019/01/28
+2017/03/30
+2016/11/31
+2015/03/25
 ````
-
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -494,7 +491,7 @@ Knight Move
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDkyNDE0NiwtMTM0MDY3MzM1NywtMT
-YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
-MTg2XX0=
+eyJoaXN0b3J5IjpbLTE2MjQwNTQ4MzQsLTEzNDA2NzMzNTcsLT
+E2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEw
+MjE4Nl19
 -->
