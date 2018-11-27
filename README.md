@@ -482,7 +482,10 @@ Enter N: 10
 2015/03/25
 ````
 ## week 11
-- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
+- [Knight Tour(smart move).cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour(mart%20move).cpp)
+````
+
+- [Knight Tour1.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour1.cpp)
 
 
 ## week 12
@@ -497,7 +500,7 @@ Enter N: 10
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDkxMjcwNywtMTM0MDY3MzM1NywtMT
+eyJoaXN0b3J5IjpbMTc0NTM2NjEwOSwtMTM0MDY3MzM1NywtMT
 YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
 MTg2XX0=
 -->
