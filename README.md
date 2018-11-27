@@ -512,11 +512,21 @@ Total moves: 44
 ````
 ## week 12
 - [Lotto(s)pointer.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto(s)pointer.cpp)
-````
 
+- [Lotto adding winner.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
 ````
-- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
-````
+John Smith
+
+[0] 2017/06/21, 33 10 42 15 24 03 , Winner: Adam Smith
+[1] 2020/04/01, 09 02 43 17 40 41 , Winner: Steve Edam
+[2] 2016/03/24, 24 25 40 17 01 40 , Winner: Amy Jones
+[3] 2019/05/11, 05 42 11 38 40 39 , Winner: Louis Love
+[4] 2019/11/17, 06 30 40 29 26 33 , Winner: William Cash
+[5] 2019/11/14, 02 21 22 08 11 24 , Winner: Dave Bush
+[6] 2015/11/10, 24 17 32 48 15 31 , Winner: Chris Winston
+[7] 2017/03/27, 38 14 38 07 32 17 , Winner: Jim Copper
+[8] 2020/01/05, 26 45 44 30 41 23 , Winner: John Copper
+[9] 2015/03/09, 08 32 23 39 20 08 , Winner: Haro Johnson
 
 ````
 ## exercise
@@ -529,7 +539,7 @@ Total moves: 44
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAwNTAwNDk2LC0xMzQwNjczMzU3LC0xNj
-A4Njk0MTQ4LDEzMDY5NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIx
-ODZdfQ==
+eyJoaXN0b3J5IjpbMTE4NDk1NTU4NSwtMTM0MDY3MzM1NywtMT
+YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
+MTg2XX0=
 -->
