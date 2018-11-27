@@ -482,14 +482,23 @@ Enter N: 10
 2015/03/25
 ````
 ## week 11
-- [Knight Tour(smart move).cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour(mart%20move).cpp)
+- [Knight Tour(smart move).cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour(smart%20move).cpp)
 ````
 
+````
 - [Knight Tour1.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w11/Knight%20Tour1.cpp)
+````
 
-
+````
 ## week 12
 - [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
+````
+
+````
+- [lottos.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w09/lottos.cpp)
+````
+
+````
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -500,7 +509,7 @@ Enter N: 10
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTM2NjEwOSwtMTM0MDY3MzM1NywtMT
-YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
-MTg2XX0=
+eyJoaXN0b3J5IjpbNTk3NjQyNjYsLTEzNDA2NzMzNTcsLTE2MD
+g2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIwOTUsMTY2MDEwMjE4
+Nl19
 -->
