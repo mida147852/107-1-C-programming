@@ -1,6 +1,6 @@
 ＃歡迎來到StackEdit！
 
-嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果您想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的**文件瀏覽器**來創建新文件。
+嗨！我對你們的第一次降價文件** StackEdit **。如果你想了解StackEdit，你可以讀我。如果你想玩Markdown，可以編輯我。完成後，您可以通過打開導航欄左側的*  *文件瀏覽器**來創建新文件。
 
 
 ＃文件
@@ -13,7 +13,7 @@ StackEdit存儲您的文件在您的瀏覽器，這意味著您的所有文件�
 
 ## 切換到另一個文件
 
-您的所有文件都列在文件資源管理器中。您可以通過單擊列表中的文件從一個切換到另一個。
+您的所有文件都列在文件資源管理器中，您可以通過單擊列表中的文件從一個切換到另一個。
 
 ## 重命名文件
 
@@ -21,14 +21,14 @@ StackEdit存儲您的文件在您的瀏覽器，這意味著您的所有文件�
 
 ## 刪除文件
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+您可以通過單擊文件資源管理器中的**刪除**按鈕來刪除當前文件。該文件將被移動到** Trash **文件夾中，並在7天不活動後自動刪除。
 
-## Export a file
+## 導出文件
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+您可以通過單擊菜單中的**導出到磁盤**來導出當前文件。您可以選擇將文件導出為純Markdown，使用Handlebars模板或PDF作為HTML導出。
 
 
-# Synchronization
+＃同步
 
 Synchronization is one of the biggest features of StackEdit. It enables you to synchronize any file in your workspace with other files stored in your **Google Drive**, your **Dropbox** and your **GitHub** accounts. This allows you to keep writing on other devices, collaborate with people you share the file with, integrate easily into your workflow... The synchronization mechanism takes place every minute in the background, downloading, merging, and uploading file modifications.
 
@@ -120,27 +120,27 @@ $$
 
 You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
 
-```美人魚
-序列
-圖表愛麗絲 -  >>鮑勃：你好鮑勃，你好嗎？
-鮑勃 -  >>約翰：約翰，你呢？
-鮑勃 -  x愛麗絲：我很感謝！
-Bob-x John：我很感謝！
-注意約翰的權利：鮑勃認為很長很長一段時間，因為文本不適合連續。鮑勃 - >愛麗絲：和約翰一起檢查......愛麗絲 - > 約翰：是的......約翰，你好嗎？```
+`  ` `美人魚序列圖表愛麗絲 -  >>鮑勃：你好鮑勃，你好嗎？鮑勃 -  >>約翰：約翰，你呢？鮑勃 -  x愛麗絲：我很感謝！Bob-x John ：我很感謝！注意約翰的權利：鮑勃認為很長很長一段時間，因為文本不適合連續。鮑勃 - >愛麗絲：和約翰一起檢查......愛麗絲 - >約翰：是的......約翰，你好嗎？` ` `這將產生一個流程圖：` ` `美人魚圖LR A [方形矩形]  - 鏈接文字 - > B（（圓圈））A  - > C（圓形形形矩形）乙- > d {菱形}℃ - > d ` ` ` 
 
 
 
 
 
-這將產生一個流程圖：
+      
 
-```美人魚
-圖LR 
-A [方形矩形]  - 鏈接文字 - > B（（圓圈））
-A  - > C（圓形矩形）
-B  - > D {菱形} 
-C  - > D```
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyOTMyMDc3XX0=
+eyJoaXN0b3J5IjpbNzU3Mzg3ODYzXX0=
 -->
