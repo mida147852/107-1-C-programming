@@ -603,12 +603,11 @@ NULL
 - [UVA406](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA406)
 -  [UVA256](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA256)
 -   [UVA10107](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA10107)
-- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5MzU4OTE4LC01MjM0NjkxNzMsLTE4NT
-I4MjMzODEsMTE4NDk1NTU4NSwtMTM0MDY3MzM1NywtMTYwODY5
-NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAyMTg2XX
-0=
+eyJoaXN0b3J5IjpbLTMwMzg1MDkzMyw2OTkzNTg5MTgsLTUyMz
+Q2OTE3MywtMTg1MjgyMzM4MSwxMTg0OTU1NTg1LC0xMzQwNjcz
+MzU3LC0xNjA4Njk0MTQ4LDEzMDY5NTE2NzEsNDg1ODIyMDk1LD
+E2NjAxMDIxODZdfQ==
 -->
