@@ -529,7 +529,8 @@ John Smith
 [9] 2015/03/09, 08 32 23 39 20 08 , Winner: Haro Johnson
 ````
 ## week 13
-
+- [Linked List-Lotto data.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
+- [Lotto adding winner.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -540,7 +541,7 @@ John Smith
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDYyMzY3LDExODQ5NTU1ODUsLTEzND
+eyJoaXN0b3J5IjpbODUzNjMzMjY1LDExODQ5NTU1ODUsLTEzND
 A2NzMzNTcsLTE2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIw
 OTUsMTY2MDEwMjE4Nl19
 -->
