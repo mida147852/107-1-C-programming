@@ -1,0 +1,55 @@
+#include<stdio.h>
+#define MAX 100
+int OS(int i)
+{
+    int m=0;
+    for(int j=2; j<=i/2; j++)
+    {
+        if(i%j==0)
+        {
+            return m=0;
+        }
+    }
+    return m=1;
+}
+int OK(int n,int m)
+{
+    int k[MAX],e=0,c,s;
+    for(int i=1; i<=n; i++)
+    {
+        if(OS(i)==1)
+        {
+            k[e]=i;
+            e++;
+        }
+    }
+    if(e%2==1)
+    {
+        c=2*m-1;
+
+    }
+    else
+    {
+        c=2*m;
+    }
+
+    printf("%d %d: ",n,m);
+    int s1=(e-c+1)/2,s2=(e+c-1)/2;
+    if(s1<0&&s2>e)
+    {
+        s1=0;s2=e-1;
+    }
+    for(int i=s1; i<=s2; i++)
+    {
+        printf("%d ",k[i]);
+    }
+    printf("\n");
+}
+int main()
+{
+    int n,m;
+    while(scanf("%d %d",&n,&m)!=EOF)
+    {
+        OK(n,m);
+    }
+}
