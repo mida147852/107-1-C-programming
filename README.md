@@ -600,13 +600,13 @@ NULL
 - [UVA488](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA488)
 - [UVA10071andUVA10055](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA10071andUVA10055)
 - [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
-- [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
+- [UVA406](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA406)
 -  [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
 -   [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI4MjMzODEsMTE4NDk1NTU4NSwtMT
-M0MDY3MzM1NywtMTYwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgy
-MjA5NSwxNjYwMTAyMTg2XX0=
+eyJoaXN0b3J5IjpbLTUyMzQ2OTE3MywtMTg1MjgyMzM4MSwxMT
+g0OTU1NTg1LC0xMzQwNjczMzU3LC0xNjA4Njk0MTQ4LDEzMDY5
+NTE2NzEsNDg1ODIyMDk1LDE2NjAxMDIxODZdfQ==
 -->
