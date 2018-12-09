@@ -592,9 +592,7 @@ NULL
 ?
 ````
 - [swap.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w13/swap.cpp)
-````
 
-````
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -602,10 +600,13 @@ NULL
 - [UVA488](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA488)
 - [UVA10071andUVA10055](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA10071andUVA10055)
 - [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
+- [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
+-  [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
+-   [UVA913](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/UVA913)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzA1NjkzMywxMTg0OTU1NTg1LC0xMz
-QwNjczMzU3LC0xNjA4Njk0MTQ4LDEzMDY5NTE2NzEsNDg1ODIy
-MDk1LDE2NjAxMDIxODZdfQ==
+eyJoaXN0b3J5IjpbLTE4NTI4MjMzODEsMTE4NDk1NTU4NSwtMT
+M0MDY3MzM1NywtMTYwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgy
+MjA5NSwxNjYwMTAyMTg2XX0=
 -->
