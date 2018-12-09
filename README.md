@@ -527,8 +527,9 @@ John Smith
 [7] 2017/03/27, 38 14 38 07 32 17 , Winner: Jim Copper
 [8] 2020/01/05, 26 45 44 30 41 23 , Winner: John Copper
 [9] 2015/03/09, 08 32 23 39 20 08 , Winner: Haro Johnson
-
 ````
+## week 13
+
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -539,7 +540,7 @@ John Smith
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDk1NTU4NSwtMTM0MDY3MzM1NywtMT
-YwODY5NDE0OCwxMzA2OTUxNjcxLDQ4NTgyMjA5NSwxNjYwMTAy
-MTg2XX0=
+eyJoaXN0b3J5IjpbLTI0MDYyMzY3LDExODQ5NTU1ODUsLTEzND
+A2NzMzNTcsLTE2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIw
+OTUsMTY2MDEwMjE4Nl19
 -->
