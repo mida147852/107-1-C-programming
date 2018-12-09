@@ -1,0 +1,47 @@
+#include<stdio.h>
+void me(int m[],int n)
+{
+    for(int i=0; i<n; i++)
+    {
+        printf("%d ",m[i]);
+    }
+    printf("\n");
+    if(n%2==1)
+        printf("ii %d\n",m[n/2]);
+    else
+        printf("ii %d\n",(m[(n-1)/2]+m[n/2])/2);
+}
+int mo(int m[],int n)
+{
+    int m1;
+    for(int i=1; i<n; i++)
+    {
+        for(int i=1; i<n; i++)
+        {
+            if(m[i-1]>m[i])
+            {
+                m1=m[i-1];
+                m[i-1]=m[i];
+                m[i]=m1;
+            }
+
+        }
+    }
+    me(m,n);
+}
+int main()
+{
+    int k[100]= {0},e=0,n;
+    printf("Enter number :\n");
+    while(1)
+    {
+
+        scanf("%d",&n);
+        if(n<0)
+            break;
+        k[e]=n;
+        e=e+1;
+        mo(k,e);
+    }
+
+}
