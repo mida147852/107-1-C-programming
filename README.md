@@ -529,8 +529,72 @@ John Smith
 [9] 2015/03/09, 08 32 23 39 20 08 , Winner: Haro Johnson
 ````
 ## week 13
-- [Linked List-Lotto data.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
-- [Lotto adding winner.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w12/Lotto%20adding%20winner.cpp)
+- [Linked List-Lotto data.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w13/Linked%20List-Lotto%20data.cpp)
+````
+Enter your choice:
+   1 to insert an element into the list.
+   2 to delete an element from the list.
+   3 to end.
+? 1
+
+Enter ID: 1000
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 4
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+NULL
+
+? 1
+
+Enter ID: 1002
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 8
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+
+Lotto ID: 1002
+   Date: 2018/12/8
+   Six winning numbers: 47 16 32 29 13 5
+NULL
+
+? 1
+
+Enter ID: 1001
+Enter the year: 2018
+Enter the month: 12
+Enter the days: 6
+Random generating 6 lotto numbers ...
+The list is:
+
+Lotto ID: 1000
+   Date: 2018/12/4
+   Six winning numbers: 21 15 12 3 29 8
+
+Lotto ID: 1001
+   Date: 2018/12/6
+   Six winning numbers: 24 31 16 42 32 3
+
+Lotto ID: 1002
+   Date: 2018/12/8
+   Six winning numbers: 47 16 32 29 13 5
+NULL
+
+?
+````
+- [swap.cpp](https://github.com/mida147852/107-1-C-programming/blob/master/w13/swap.cpp)
+````
+
+````
 ## exercise
 - [99multiplication](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/99multiplication.cpp)
 - [triangle](https://github.com/mida147852/107-1-C-programming/blob/master/exercise/triangle.cpp)
@@ -541,7 +605,7 @@ John Smith
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNjMzMjY1LDExODQ5NTU1ODUsLTEzND
-A2NzMzNTcsLTE2MDg2OTQxNDgsMTMwNjk1MTY3MSw0ODU4MjIw
-OTUsMTY2MDEwMjE4Nl19
+eyJoaXN0b3J5IjpbLTgzNzA1NjkzMywxMTg0OTU1NTg1LC0xMz
+QwNjczMzU3LC0xNjA4Njk0MTQ4LDEzMDY5NTE2NzEsNDg1ODIy
+MDk1LDE2NjAxMDIxODZdfQ==
 -->
